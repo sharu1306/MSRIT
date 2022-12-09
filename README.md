@@ -1,3 +1,1 @@
-hello namaste
-goodi
-nice
+good morning
