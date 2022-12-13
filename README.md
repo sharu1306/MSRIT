@@ -1,4 +1,1 @@
-hello namaste
-goodi
-nice
-super
+clever
